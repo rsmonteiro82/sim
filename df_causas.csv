@@ -1,0 +1,111 @@
+Ano,Ordem,Cod,Quant,Descricao
+2008,1,I21,75272,Infarto agudo do miocárdio
+2008,2,I64,45793,"Acidente vascular cerebral, não especificado como hemorrágico ou isquêmico"
+2008,3,E14,44968,Diabetes mellitus não especificado
+2008,4,J18,41933,Pneumonia por microorganismo não especificada
+2008,5,R99,34832,Outras causas mal definidas e as não especificadas de mortalidade
+2008,6,X95,32335,Agressão por meio de disparo de outra arma de fogo ou de arma não especificada
+2008,7,J44,30027,Outras doenças pulmonares obstrutivas crônicas
+2008,8,I50,27567,Insuficiência cardíaca
+2008,9,R98,27556,Morte sem assistência
+2008,10,I10,20733,Hipertensão essencial (primária)
+2009,1,I21,76359,Infarto agudo do miocárdio
+2009,2,J18,47514,Pneumonia por microorganismo não especificada
+2009,3,E14,46129,Diabetes mellitus não especificado
+2009,4,I64,44937,"Acidente vascular cerebral, não especificado como hemorrágico ou isquêmico"
+2009,5,R99,34611,Outras causas mal definidas e as não especificadas de mortalidade
+2009,6,X95,33571,Agressão por meio de disparo de outra arma de fogo ou de arma não especificada
+2009,7,J44,30738,Outras doenças pulmonares obstrutivas crônicas
+2009,8,I50,27314,Insuficiência cardíaca
+2009,9,R98,26126,Morte sem assistência
+2009,10,I10,21530,Hipertensão essencial (primária)
+2010,1,I21,79668,Infarto agudo do miocárdio
+2010,2,J18,50230,Pneumonia por microorganismo não especificada
+2010,3,E14,48340,Diabetes mellitus não especificado
+2010,4,I64,44891,"Acidente vascular cerebral, não especificado como hemorrágico ou isquêmico"
+2010,5,R99,35616,Outras causas mal definidas e as não especificadas de mortalidade
+2010,6,X95,33304,Agressão por meio de disparo de outra arma de fogo ou de arma não especificada
+2010,7,J44,32441,Outras doenças pulmonares obstrutivas crônicas
+2010,8,I50,27544,Insuficiência cardíaca
+2010,9,R98,25226,Morte sem assistência
+2010,10,I10,22125,Hipertensão essencial (primária)
+2011,1,I21,82771,Infarto agudo do miocárdio
+2011,2,J18,53883,Pneumonia por microorganismo não especificada
+2011,3,E14,50579,Diabetes mellitus não especificado
+2011,4,I64,44916,"Acidente vascular cerebral, não especificado como hemorrágico ou isquêmico"
+2011,5,R99,36356,Outras causas mal definidas e as não especificadas de mortalidade
+2011,6,J44,34650,Outras doenças pulmonares obstrutivas crônicas
+2011,7,X95,32653,Agressão por meio de disparo de outra arma de fogo ou de arma não especificada
+2011,8,I50,27818,Insuficiência cardíaca
+2011,9,R98,23577,Morte sem assistência
+2011,10,I10,23224,Hipertensão essencial (primária)
+2012,1,I21,84121,Infarto agudo do miocárdio
+2012,2,J18,55741,Pneumonia por microorganismo não especificada
+2012,3,E14,49141,Diabetes mellitus não especificado
+2012,4,I64,42815,"Acidente vascular cerebral, não especificado como hemorrágico ou isquêmico"
+2012,5,X95,35706,Agressão por meio de disparo de outra arma de fogo ou de arma não especificada
+2012,6,R99,35024,Outras causas mal definidas e as não especificadas de mortalidade
+2012,7,J44,33458,Outras doenças pulmonares obstrutivas crônicas
+2012,8,I50,26694,Insuficiência cardíaca
+2012,9,C34,23416,Neoplasia maligna dos brônquios e dos pulmões
+2012,10,I10,22687,Hipertensão essencial (primária)
+2013,1,I21,85939,Infarto agudo do miocárdio
+2013,2,J18,61876,Pneumonia por microorganismo não especificada
+2013,3,E14,49195,Diabetes mellitus não especificado
+2013,4,I64,42145,"Acidente vascular cerebral, não especificado como hemorrágico ou isquêmico"
+2013,5,X95,36635,Agressão por meio de disparo de outra arma de fogo ou de arma não especificada
+2013,6,J44,35545,Outras doenças pulmonares obstrutivas crônicas
+2013,7,R99,35213,Outras causas mal definidas e as não especificadas de mortalidade
+2013,8,I50,27290,Insuficiência cardíaca
+2013,9,C34,24393,Neoplasia maligna dos brônquios e dos pulmões
+2013,10,I10,23502,Hipertensão essencial (primária)
+2014,1,I21,87234,Infarto agudo do miocárdio
+2014,2,J18,63690,Pneumonia por microorganismo não especificada
+2014,3,E14,48460,Diabetes mellitus não especificado
+2014,4,I64,40419,"Acidente vascular cerebral, não especificado como hemorrágico ou isquêmico"
+2014,5,X95,39156,Agressão por meio de disparo de outra arma de fogo ou de arma não especificada
+2014,6,R99,34781,Outras causas mal definidas e as não especificadas de mortalidade
+2014,7,J44,34759,Outras doenças pulmonares obstrutivas crônicas
+2014,8,I50,26783,Insuficiência cardíaca
+2014,9,C34,25333,Neoplasia maligna dos brônquios e dos pulmões
+2014,10,I10,22985,Hipertensão essencial (primária)
+2015,1,I21,90811,Infarto agudo do miocárdio
+2015,2,J18,68832,Pneumonia por microorganismo não especificada
+2015,3,E14,49652,Diabetes mellitus não especificado
+2015,4,I64,40668,"Acidente vascular cerebral, não especificado como hemorrágico ou isquêmico"
+2015,5,X95,38024,Agressão por meio de disparo de outra arma de fogo ou de arma não especificada
+2015,6,J44,37631,Outras doenças pulmonares obstrutivas crônicas
+2015,7,R99,36557,Outras causas mal definidas e as não especificadas de mortalidade
+2015,8,I50,27434,Insuficiência cardíaca
+2015,9,C34,26400,Neoplasia maligna dos brônquios e dos pulmões
+2015,10,I10,24230,Hipertensão essencial (primária)
+2016,1,I21,94148,Infarto agudo do miocárdio
+2016,2,J18,71974,Pneumonia por microorganismo não especificada
+2016,3,E14,50201,Diabetes mellitus não especificado
+2016,4,I64,41019,"Acidente vascular cerebral, não especificado como hemorrágico ou isquêmico"
+2016,5,R99,40399,Outras causas mal definidas e as não especificadas de mortalidade
+2016,6,X95,40373,Agressão por meio de disparo de outra arma de fogo ou de arma não especificada
+2016,7,J44,38643,Outras doenças pulmonares obstrutivas crônicas
+2016,8,I50,28777,Insuficiência cardíaca
+2016,9,C34,27177,Neoplasia maligna dos brônquios e dos pulmões
+2016,10,I10,25138,Hipertensão essencial (primária)
+2017,1,I21,92657,Infarto agudo do miocárdio
+2017,2,J18,66742,Pneumonia por microorganismo não especificada
+2017,3,E14,50040,Diabetes mellitus não especificado
+2017,4,X95,43266,Agressão por meio de disparo de outra arma de fogo ou de arma não especificada
+2017,5,R99,41365,Outras causas mal definidas e as não especificadas de mortalidade
+2017,6,J44,40923,Outras doenças pulmonares obstrutivas crônicas
+2017,7,I64,36206,"Acidente vascular cerebral, não especificado como hemorrágico ou isquêmico"
+2017,8,C34,27833,Neoplasia maligna dos brônquios e dos pulmões
+2017,9,I50,27461,Insuficiência cardíaca
+2017,10,I10,25534,Hipertensão essencial (primária)
+2018,1,I21,93272,Infarto agudo do miocárdio
+2018,2,J18,64780,Pneumonia por microorganismo não especificada
+2018,3,E14,49572,Diabetes mellitus não especificado
+2018,4,R99,43492,Outras causas mal definidas e as não especificadas de mortalidade
+2018,5,J44,40437,Outras doenças pulmonares obstrutivas crônicas
+2018,6,X95,36595,Agressão por meio de disparo de outra arma de fogo ou de arma não especificada
+2018,7,I64,33635,"Acidente vascular cerebral, não especificado como hemorrágico ou isquêmico"
+2018,8,C34,28632,Neoplasia maligna dos brônquios e dos pulmões
+2018,9,I50,26482,Insuficiência cardíaca
+2018,10,I10,25812,Hipertensão essencial (primária)
