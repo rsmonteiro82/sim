@@ -21,12 +21,9 @@ mkdir $HADOOP_HOME/logs
 
 Na sequência, foi necessário alterar a configuração de arquivos que ficam na home do Hadoop. No arquivo \textit{core-site.xml} foi informado onde está localizado o sistema de arquivos e onde devem ser gravados arquivos de sistema. No arquivo \textit{hdfs-site.xml} foi indicado o número de réplicas para os blocos dos arquivos no sistema, que neste caso é apenas um, pois está sendo utilizada uma máquina. Por fim, no arquivo \textit{yarn-site.xml} foi habilitado o serviço \textit{mapreduce shuffle} e no arquivo mapred-site foi especificado que será utilizado o yarn como framework de escalonamento. Tais alterações foram realizadas com a inserção das seguintes propriedades:
 
-\begin{multicols}{2}
 
-\begin{flushleft}
+'''xml	
 core-site.xml:
-\end{flushleft}
-\begin{minted}[fontsize=\scriptsize]{xml}
 <configuration>
 <property>
 <name>fs.defaultFS</name>
@@ -37,8 +34,8 @@ core-site.xml:
 <value>/home/${user.name}/hadooptmp</value>
 </property>
 </configuration>
-\end{minted}
-\medskip
+'''
+
 
 \begin{flushleft}
 hdfs-site.xml:
