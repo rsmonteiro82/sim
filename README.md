@@ -1,3 +1,3 @@
-# SIM
+# Visualização e Análise de Dados do Sistema de Informações sobre Mortalidade - SIM
 
 O presente trabalho objetiva explorar dados oriundos do Sistema de Informação sobre Mortalidade (SIM) que com preendem os anos de 2008 a 2018 por meio de visualizações gráficas. Para isto, foram utilizadas bibliotecas da linguagem Python que permitiram criar soluções interativas visando responder a cinco questões formuladas de modo a explicitar variados aspectos relativos aos óbitos ocorridos no Brasil, entre os quais estãoo especialmente fatores socioeconômicos e causas de morte. Considerando que as questões partiram de temas mais abrangentes em direção a temas mais específicos, verificou-se que as técnicas visuais podem colaborar com o processo de compreensão dos dados e auxiliar na geração ao de novas percepções.
